@@ -195,7 +195,6 @@
 "use client";
 import React, { useState } from "react";
 import Image from "next/image";
-import Slider from "react-slick";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
 import { NextArrow, PrevArrow } from "../arrowComponents/SlickerArrows";
@@ -214,14 +213,7 @@ import RedPlanetBook from "../../../public/assets/bookstore/RedPlanetBook.jpeg";
 export default function ListedPublishItems() {
   const [selectedCategory, setSelectedCategory] = useState("all");
 
-  const settings = {
-    infinite: true,
-    speed: 500,
-    slidesToShow: 4,
-    slidesToScroll: 1,
-    nextArrow: <NextArrow />,
-    prevArrow: <PrevArrow />,
-  };
+ 
 
   const data = [
     {

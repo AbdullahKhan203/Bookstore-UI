@@ -1,8 +1,6 @@
 import { Inter } from "next/font/google";
 import "./globals.css";
 import FirstNav from "./components/firstNav/FirstNav";
-import SecondNav from "./components/secondNav/SecondNav";
-import ThirdNav from "./components/thirdNav/ThirdNav";
 import MyNav from "./components/myDefaultNav/MyNAv";
 import Footer from "./components/footer/Footer";
 

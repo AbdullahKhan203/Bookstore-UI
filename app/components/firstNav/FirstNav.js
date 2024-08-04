@@ -1,8 +1,6 @@
 import Image from 'next/image'
 import React from 'react'
 import bookLogo from '@/public/assets/images/bookLogoThird.png'
-import  IoIosSearch  from "react-icons/io";
-import dynamic from 'next/dynamic';
 import SearchIcon from '../../components/icons/SearchIcon';
 import CartIcon from '../../components/icons/CartIcon';
 

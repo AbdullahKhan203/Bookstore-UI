@@ -1,6 +1,4 @@
 import React from 'react'
-import Image from 'next/image'
-import firstCourselImg from  '../../../public/assets/bookstore/asset16.jpeg';
 import Coursel from  '../../components/coursel/Coursel';
 import FeatherThisWeek from  '../../components/homePageComponents/FeatherThisWeek';
 import BookSlider from  '../../components/bookSlider/BookSlider';

@@ -35,7 +35,7 @@
 //             </div>
 //             <div className="para">
 //               That dominion stars lights dominion divide years for fourth have
-//               don't stars is that he earth it first without heaven in place seed
+//               don&apos;t stars is that he earth it first without heaven in place seed
 //               it second morning saying.
 //             </div>
 //             <div className="catagory-comment flex my-2 sm:my-4">
@@ -69,7 +69,7 @@
 //             </div>
 //             <div className="para">
 //               That dominion stars lights dominion divide years for fourth have
-//               don't stars is that he earth it first without heaven in place seed
+//               don&apos;t stars is that he earth it first without heaven in place seed
 //               it second morning saying.
 //             </div>
 //             <div className="catagory-comment flex my-2 sm:my-4">
@@ -102,7 +102,7 @@
 //             </div>
 //             <div className="para">
 //               That dominion stars lights dominion divide years for fourth have
-//               don't stars is that he earth it first without heaven in place seed
+//               don&apos;t stars is that he earth it first without heaven in place seed
 //               it second morning saying.
 //             </div>
 //             <div className="catagory-comment flex my-2 sm:my-4">
@@ -135,7 +135,7 @@
 //             </div>
 //             <div className="para">
 //               That dominion stars lights dominion divide years for fourth have
-//               don't stars is that he earth it first without heaven in place seed
+//               don&apos;t stars is that he earth it first without heaven in place seed
 //               it second morning saying.
 //             </div>
 //             <div className="catagory-comment flex my-2 sm:my-4">
@@ -168,7 +168,7 @@
 //             </div>
 //             <div className="para">
 //               That dominion stars lights dominion divide years for fourth have
-//               don't stars is that he earth it first without heaven in place seed
+//               don&apos;t stars is that he earth it first without heaven in place seed
 //               it second morning saying.
 //             </div>
 //             <div className="catagory-comment flex my-2 sm:my-4">
@@ -368,7 +368,7 @@ export default function Content() {
             </div>
             <div className="para">
               That dominion stars lights dominion divide years for fourth have
-              don't stars is that he earth it first without heaven in place seed
+              don&apos;t stars is that he earth it first without heaven in place seed
               it second morning saying.
             </div>
             <div className="catagory-comment flex my-2 sm:my-4">
@@ -401,7 +401,7 @@ export default function Content() {
             </div>
             <div className="para">
               That dominion stars lights dominion divide years for fourth have
-              don't stars is that he earth it first without heaven in place seed
+              don&apos;t stars is that he earth it first without heaven in place seed
               it second morning saying.
             </div>
             <div className="catagory-comment flex my-2 sm:my-4">
@@ -434,7 +434,7 @@ export default function Content() {
             </div>
             <div className="para">
               That dominion stars lights dominion divide years for fourth have
-              don't stars is that he earth it first without heaven in place seed
+              don&apos;t stars is that he earth it first without heaven in place seed
               it second morning saying.
             </div>
             <div className="catagory-comment flex my-2 sm:my-4">
@@ -467,7 +467,7 @@ export default function Content() {
             </div>
             <div className="para">
               That dominion stars lights dominion divide years for fourth have
-              don't stars is that he earth it first without heaven in place seed
+              don&apos;t stars is that he earth it first without heaven in place seed
               it second morning saying.
             </div>
             <div className="catagory-comment flex my-2 sm:my-4">
@@ -500,7 +500,7 @@ export default function Content() {
             </div>
             <div className="para">
               That dominion stars lights dominion divide years for fourth have
-              don't stars is that he earth it first without heaven in place seed
+              don&apos;t stars is that he earth it first without heaven in place seed
               it second morning saying.
             </div>
             <div className="catagory-comment flex my-2 sm:my-4">
