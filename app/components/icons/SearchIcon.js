@@ -5,7 +5,7 @@ const IoIosSearch = dynamic(() => import('react-icons/io').then(mod => mod.IoIos
 export default function SearchIcon() {
   return (
     <div>
-      <IoIosSearch className='text-[30px]' />
+      <IoIosSearch className='text-[30px] p-[4px]' />
     </div>
   )
 }

@@ -314,7 +314,7 @@ export default function ListedPublishItems() {
       : data.filter((item) => item.category === selectedCategory);
 
   return (
-    <div className="w-[95%] h-[580px] sm:h-[500px] m-auto p-4 border-[4px] my-2">
+    <div className="w-[95%] h-[580px] sm:h-[500px] m-auto p-4  my-2">
       <div className="top flex justify-around">
         <div className="heading text-[16px] md:text-[24px] lg:text-[32px]">Latest Published Items</div>
         <div className="buttons">
