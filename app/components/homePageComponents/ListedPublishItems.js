@@ -372,7 +372,7 @@ export default function ListedPublishItems() {
         {filteredData.map((d, index) => (
           <div key={index} className="book mx-1">
             <div className="image h-[295px] w-[196px] border-[2px]">
-              <Image src={d.img} className="h-[100%] w-[100%]" />
+              <Image src={d.img} alt="image" className="h-[100%] w-[100%]" />
             </div>
             <div className="content h-auto w-[196px] border-[2px]">
               <div className="name ml-[20px]">{d.name}</div>

@@ -403,7 +403,7 @@ export default function FeatherThisWeek() {
                 
       </div>
       <div className="w-[100%] md:w-[30%]  flex border-teal-500 border-2">
-        <Image src={joker} className="md:h-[100%] h-[50%] w-[70%] md:w-[100%] flex  m-auto md:m-0  md:block "/>
+        <Image src={joker} alt="joker" className="md:h-[100%] h-[50%] w-[70%] md:w-[100%] flex  m-auto md:m-0  md:block "/>
       </div>
     </div>
   );

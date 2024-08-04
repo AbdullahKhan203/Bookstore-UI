@@ -338,8 +338,8 @@ export default function BookSlider() {
         <div className='w-[80%] m-auto my-5'>
             <div className='slider-container mt-5 '>
                 <Slider {...settings}>
-                    {data.map((d) => (
-                        <div  className={`w-[300px] h-[500px] border-4  flex flex-col`}>
+                    {data.map((d,i) => (
+                        <div key={i}  className={`w-[300px] h-[500px] border-4  flex flex-col`}>
                             <div className='h-[65%] border-blue-600'>
                                 <Image
                                     src={d.img}

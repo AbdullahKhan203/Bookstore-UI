@@ -43,7 +43,7 @@ export default function Content() {
                 <Identification />
                 <p>Travel,Lifestyle</p>
               </div>
-              {" "}
+               {/* {" "} */} 
               <div className="flex items-center mx-1 sm:mx-2">
                 <Comments />
                 <p className="sm:ml-2">Travel,Lifestyle</p>
@@ -76,7 +76,7 @@ export default function Content() {
             <div className="flex items-center mx-1 sm:mx-2">
                 <Identification />
                 <p>Travel,Lifestyle</p>
-              </div>{" "}
+              </div> {/* {" "} */}
               <div className="flex items-center mx-1 sm:mx-2">
                 <Comments />
                 <p className="sm:ml-2">Travel,Lifestyle</p>
@@ -109,7 +109,7 @@ export default function Content() {
             <div className="flex items-center mx-1 sm:mx-2">
                 <Identification />
                 <p>Travel,Lifestyle</p>
-              </div>{" "}
+              </div> {/* {" "} */}
               <div className="flex items-center mx-1 sm:mx-2">
                 <Comments />
                 <p className="sm:ml-2">Travel,Lifestyle</p>
@@ -142,7 +142,7 @@ export default function Content() {
               <div className="flex items-center mx-1 sm:mx-2">
                 <Identification />
                 <p>Travel,Lifestyle</p>
-              </div>{" "}
+              </div> {/* {" "} */}
               <div className="flex items-center mx-1 sm:mx-2">
                 <Comments />
                 <p className="sm:ml-2">Travel,Lifestyle</p>
@@ -175,7 +175,7 @@ export default function Content() {
             <div className="flex items-center mx-1 sm:mx-2">
                 <Identification />
                 <p>Travel,Lifestyle</p>
-              </div>{" "}
+              </div> {/* {" "} */}
               <div className="flex items-center mx-1 sm:mx-2">
                 <Comments />
                 <p className="sm:ml-2">Travel,Lifestyle</p>
@@ -220,10 +220,10 @@ export default function Content() {
             <ul className="flex flex-col gap-4 my-4 font-extralight ">
               <li className="">
                 <div className="h-[47px] flex">
-                  {" "}
+                   {/* {" "} */}
                   <div className="img">
                     <Image src={postImage1} className="h-[47px] w-[48px]" />
-                  </div>{" "}
+                  </div> {/* {" "} */}
                   <div className="content flex flex-col ml-4">
                     <div className="heading">From List Fish</div>
                     <div className="date">date</div>
@@ -232,10 +232,10 @@ export default function Content() {
               </li>
               <li className="">
                 <div className="h-[47px] flex">
-                  {" "}
+                   {/* {" "} */}
                   <div className="img">
                     <Image src={postImage1} className="h-[47px] w-[48px]" />
-                  </div>{" "}
+                  </div> {/* {" "} */}
                   <div className="content flex flex-col ml-4">
                     <div className="heading">From List Fish</div>
                     <div className="date">date</div>
@@ -244,10 +244,10 @@ export default function Content() {
               </li>
               <li className="">
                 <div className="h-[47px] flex">
-                  {" "}
+                   {/* {" "} */}
                   <div className="img">
                     <Image src={postImage1} className="h-[47px] w-[48px]" />
-                  </div>{" "}
+                  </div> {/* {" "} */}
                   <div className="content flex flex-col ml-4">
                     <div className="heading">From List Fish</div>
                     <div className="date">date</div>
@@ -256,10 +256,10 @@ export default function Content() {
               </li>
               <li className="">
                 <div className="h-[47px] flex">
-                  {" "}
+                   {/* {" "} */}
                   <div className="img">
                     <Image src={postImage1} className="h-[47px] w-[48px]" />
-                  </div>{" "}
+                  </div> {/* {" "} */}
                   <div className="content flex flex-col ml-4">
                     <div className="heading">From List Fish</div>
                     <div className="date">date</div>

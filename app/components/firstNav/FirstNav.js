@@ -14,7 +14,7 @@ export default function FirstNav() {
    <nav  className="bg-transparent">
     <div className='w-[100%]  flex justify-between h-auto lg:h-[40px] lg:flex-row flex-col p-1 lg:p-0'>
       <div className='first w-[100%] md:w-[20%]  border-2 flex items-center order-2 lg:order-1 '>
-        <Image src={bookLogo} height={35} width={35}/>
+        <Image src={bookLogo} height={35} width={35} alt='booklogo'/>
         <span className='font-bold'>ABC</span>
         <span className='font-thin'>Book</span>
       </div>
