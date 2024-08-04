@@ -12,7 +12,7 @@ export default function Footer() {
       <div className="fristFooter grid grid-cols-1  sm:grid-cols-2   md:grid-cols-4 gap-4 mx-auto p-6 bg-yellow-300">
         <div className="social">
           <div className="logo flex items-center ">
-            <Image src={bookLogo} height={35} width={35} />
+            <Image src={bookLogo} height={35} width={35} alt="image" />
             <span className="font-bold">ABC</span>
             <span className="font-thin">Book</span>
           </div>

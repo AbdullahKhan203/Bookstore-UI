@@ -1,3 +1,14 @@
+// {
+//   "extends": "next/core-web-vitals"
+// }
+
+
 {
-  "extends": "next/core-web-vitals"
+  "extends": "next/core-web-vitals",
+  "rules": {
+    "no-console": "off", // Disable warnings for console.log statements
+    "no-unused-vars": "warn", // Change the level of unused variables rule to warning
+    "react/react-in-jsx-scope": "off" // Disable the rule that requires React to be in scope for JSX
+  }
 }
+
